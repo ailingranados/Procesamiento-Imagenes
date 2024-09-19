@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|c:\\users\\elisa\\documents\\escuela\\8 semestre\\procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\cargarvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\cargarvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|c:\\users\\elisa\\documents\\escuela\\8 semestre\\procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\cargarvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\cargarvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|c:\\users\\elisa\\documents\\escuela\\8 semestre\\procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|c:\\users\\elisa\\documents\\escuela\\8 semestre\\procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|c:\\users\\elisa\\documents\\escuela\\8 semestre\\procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E8C4A-0993-45B5-91D2-907C954999FF}|procesamiento_de_imagenes\\procesamiento_de_imagenes.csproj|solutionrelative:procesamiento_de_imagenes\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\Form1.cs",
+              "RelativeToolTip": "procesamiento_de_imagenes\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwE8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:01:10.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "video.cs",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\video.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\video.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\video.cs",
+              "RelativeToolTip": "procesamiento_de_imagenes\\video.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwBwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:00:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cargarvideo.cs",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\cargarvideo.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\cargarvideo.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\cargarvideo.cs",
+              "RelativeToolTip": "procesamiento_de_imagenes\\cargarvideo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:56:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cargarvideo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\cargarvideo.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\cargarvideo.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\cargarvideo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "procesamiento_de_imagenes\\cargarvideo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:49:42.458Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "video.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\video.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\video.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\video.cs [Dise\u00F1o]",
+              "RelativeToolTip": "procesamiento_de_imagenes\\video.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:07:38.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "foto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\foto.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\foto.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\foto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "procesamiento_de_imagenes\\foto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:35:03.781Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "procesamiento_de_imagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elisa\\Documents\\Escuela\\8 semestre\\Procesamiento de imagenes\\1erentrega (1)\\proyecto\\procesamiento_de_imagenes\\procesamiento_de_imagenes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "procesamiento_de_imagenes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:07:38.698Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

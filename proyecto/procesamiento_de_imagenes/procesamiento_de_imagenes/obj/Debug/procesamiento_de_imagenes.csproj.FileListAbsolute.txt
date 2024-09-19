@@ -1,0 +1,29 @@
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\procesamiento_de_imagenes.exe.config
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\procesamiento_de_imagenes.exe
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\procesamiento_de_imagenes.pdb
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.AssemblyReference.cache
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.SuggestedBindingRedirects.cache
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.Properties.Resources.resources
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.GenerateResource.cache
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.CoreCompileInputs.cache
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.exe
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.pdb
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.Inicio.resources
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.foto.resources
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.video.resources
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.cargarfoto.resources
+E:\Escuela\8vo\procesamiento\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.cargarvideo.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.AssemblyReference.cache
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.exe
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.pdb
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\procesamiento_de_imagenes.exe.config
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\procesamiento_de_imagenes.exe
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\procesamiento_de_imagenes.pdb
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.cargarfoto.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.cargarvideo.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.Inicio.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.foto.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.Properties.Resources.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.video.resources
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.GenerateResource.cache
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.CoreCompileInputs.cache
