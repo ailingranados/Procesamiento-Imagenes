@@ -8,11 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
+using AForge.Video;
+using AForge.Video.DirectShow;
 
 namespace procesamiento_de_imagenes
 {
+
+    FilterInfoCollection filter;
+    VideoCaptureDevice device;
     public partial class foto : Form
     {
+
+        
         public foto()
         {
             InitializeComponent();
@@ -97,6 +104,24 @@ namespace procesamiento_de_imagenes
         }
 
         private void trackBar3_Scroll(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnFoto_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            device = new VideoCaptureDevice(filter[comboBox1.SelectedIndex], MonikerString);
+            device.NewFrame += Device_NewFrame;
+            device.Start();
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
