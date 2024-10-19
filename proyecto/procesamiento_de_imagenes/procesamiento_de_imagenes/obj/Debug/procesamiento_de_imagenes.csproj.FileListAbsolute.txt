@@ -62,3 +62,10 @@ D:\Escuela\8 Semestre\procesamiento imagenes\Procesamiento-Imagenes\proyecto\pro
 D:\Escuela\8 Semestre\procesamiento imagenes\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.csproj.CopyComplete
 D:\Escuela\8 Semestre\procesamiento imagenes\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.exe
 D:\Escuela\8 Semestre\procesamiento imagenes\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesamiento_de_imagenes.pdb
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\AForge.dll
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\AForge.Video.dll
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\AForge.xml
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\AForge.Video.xml
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Elisa\Documents\Escuela\8 semestre\Procesamiento de imagenes\1erentrega (1)\Procesamiento-Imagenes\proyecto\procesamiento_de_imagenes\procesamiento_de_imagenes\obj\Debug\procesam.907F9A5C.Up2Date
